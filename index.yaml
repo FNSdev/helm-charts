@@ -3,11 +3,11 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: lts
-    created: "2020-09-20T17:59:11.141781985Z"
+    created: "2020-09-20T18:02:26.627369546Z"
     description: Open source continuous integration server. It supports multiple SCM
       tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
       Maven-based projects as well as arbitrary scripts.
-    digest: 6f7c8c898eb54a141ae5eecadc9be403dc2b0c4d39a802784f599e3758d6b186
+    digest: 4823ee1d084bb3295709ac8f7c5d3dbf8eed0b6f1b8a3bd63d213e2e38d8be5f
     home: https://jenkins.io/
     icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
     maintainers:
@@ -32,6 +32,6 @@ entries:
     - https://github.com/maorfr/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - https://github.com/FNSdev/helm-charts/releases/download/jenkins-2.6.4/jenkins-2.6.4.tgz
-    version: 2.6.4
-generated: "2020-09-20T17:59:10.693129539Z"
+    - https://github.com/FNSdev/helm-charts/releases/download/jenkins-2.6.5/jenkins-2.6.5.tgz
+    version: 2.6.5
+generated: "2020-09-20T18:02:26.181107083Z"
